@@ -811,6 +811,7 @@ module.exports = {
   HAC: 1,
   HALLO: 1,
   HAND: 1,
+  HAV: 1,
   HAVY: 1,
   HB: 1,
   HBC: 1,
