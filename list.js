@@ -84,7 +84,7 @@ module.exports = {
   ANT: 1,
   AOA: 1,
   AOG: 1,
-  APC: 1,
+  APC: 2,
   APH: 1,
   APIS: 1,
   APL: 1,
