@@ -1,8 +1,13 @@
 const list = require('./list')
 
-const HAS_IMAGE = 1
 const HAS_DARK = 2
 
 module.exports = (ticker, theme = 'light') => {
-  return ``
+  if (!list[ticker]) {
+    return null
+  }
+
+  const suffix = list[ticker] === HAS_DARK && theme === 'dark' ? '-white' : ''
+
+  return `https://unpkg.com/cryptoicons-cdn/images/${ticker}${suffix}.png`
 }
