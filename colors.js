@@ -1861,5 +1861,6 @@ module.exports = {
   "ZZC": "#68b85c",
   "eBCH": "#e4c450",
   "eGAS": "#298ccc",
-  "eQUAD": "#4444ba"
+  "eQUAD": "#4444ba",
+  "AR": "#4c8ca4"
 }

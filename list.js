@@ -94,6 +94,7 @@ module.exports = {
   APPC: 1,
   APR: 1,
   APX: 1,
+  AR: 1,
   ARB: 1,
   ARC: 1,
   ARCO: 1,
