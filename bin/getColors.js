@@ -5,8 +5,10 @@ const Vibrant = require('node-vibrant')
 const getColor = async name => {
   const palette = await Vibrant.from(path.join(__dirname, `../images/${name}.png`)).getPalette()
   const vibrant = palette.Vibrant && palette.Vibrant.getHex()
+  const lightVibrant = palette.LightVibrant && palette.LightVibrant.getHex()
+  const darkVibrant = palette.DarkVibrant && palette.DarkVibrant.getHex()
   const muted = palette.Muted && palette.Muted.getHex()
-  return vibrant || muted
+  return vibrant || lightVibrant || darkVibrant || muted
 }
 
 const writeFile = data =>
