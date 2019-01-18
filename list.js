@@ -743,7 +743,7 @@ module.exports = {
   FT: 1,
   FTC: 1,
   FTI: 1,
-  FTM: 1,
+  FTM: 2,
   FTO: 1,
   FTT: 2,
   FTX: 1,
