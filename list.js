@@ -1777,6 +1777,7 @@ module.exports = {
   TRXC: 1,
   TSC: 1,
   TSL: 1,
+  TT: 2,
   TTC: 1,
   TTT: 1,
   TTU: 1,

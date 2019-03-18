@@ -1628,6 +1628,7 @@ module.exports = {
   "TRXC": "#dc0c14",
   "TSC": "#747c7c",
   "TSL": "#4ca48c",
+  "TT": "#ffe81c",
   "TTC": "#141494",
   "TTT": "#0454d4",
   "TTU": "#ec1414",
