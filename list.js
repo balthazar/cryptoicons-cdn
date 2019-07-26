@@ -1778,6 +1778,8 @@ module.exports = {
   TSC: 1,
   TSL: 1,
   TT: 2,
+  'TT-DAI': 1,
+  'TT-USDT': 1,
   TTC: 1,
   TTT: 1,
   TTU: 1,
