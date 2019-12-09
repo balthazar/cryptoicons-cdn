@@ -18,11 +18,15 @@ const writeFile = data =>
   )
 
 const main = async symbol => {
+  if (!symbol) {
+    return console.log('Likely to override hardcoded colors, proceed with caution.')
+  }
+
   if (symbol) {
     const color = await getColor(symbol)
     const oldColors = require('../colors')
     writeFile({ ...oldColors, [symbol]: color })
-    return console.log(`[COLORS] ${symbol} color added (${color}).`)
+    return console.log(`[COLORS] ${symbol} color added (${color}). Use vim sort.`)
   }
 
   const colors = {}
@@ -40,7 +44,7 @@ const main = async symbol => {
     }
 
     console.log(
-      `[COLORS] Progress ${i}/${images.length} (${(i / images.length * 100).toFixed(2)}%)`,
+      `[COLORS] Progress ${i}/${images.length} (${((i / images.length) * 100).toFixed(2)}%)`,
     )
   }
 
