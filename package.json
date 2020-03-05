@@ -1,6 +1,6 @@
 {
   "name": "cryptoicons-cdn",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "index.js",
   "author": "Balthazar Gronon <bgronon@gmail.com>",
   "license": "MIT",
