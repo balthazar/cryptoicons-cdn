@@ -90,7 +90,6 @@ module.exports = {
   APPC: '#fca474',
   APR: '#fcd430',
   APX: '#e4ecf4',
-  AR: '#4c8ca4',
   ARB: '#dca424',
   ARC: '#1cbca4',
   ARCO: '#b4a86c',
