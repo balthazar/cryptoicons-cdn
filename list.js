@@ -377,6 +377,7 @@ module.exports = {
   CHEESE: 1,
   CHESS: 1,
   CHEX: 1,
+  CHIP: 1,
   CHIPS: 1,
   CHP: 1,
   CHSB: 1,

@@ -359,6 +359,7 @@ module.exports = {
   CHEESE: '#fcaa30',
   CHESS: '#f0a468',
   CHEX: '#fcdc04',
+  CHIP: '#dcc119',
   CHIPS: '#d4b46c',
   CHP: '#944454',
   CHSB: '#3c6646',
