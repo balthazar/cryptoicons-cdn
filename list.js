@@ -1527,6 +1527,7 @@ module.exports = {
   RTE: 1,
   RTH: 1,
   RUFF: 1,
+  RUNE: 1,
   RUNNERS: 1,
   RUP: 1,
   RUPX: 2,

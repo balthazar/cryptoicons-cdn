@@ -1400,6 +1400,7 @@ module.exports = {
   RSTR: '#918c8c',
   RTE: '#44a5c4',
   RTH: '#e91c1c',
+  RUNE: '#14e4d4',
   RUNNERS: '#bebb04',
   RUP: '#2b72d3',
   RUPX: '#4b34ca',
