@@ -2015,6 +2015,7 @@ module.exports = {
   YCC: 1,
   YEE: 1,
   YEED: 1,
+  YFI: 1,
   YLC: 1,
   YOC: 1,
   YOU: 1,

@@ -1852,6 +1852,7 @@ module.exports = {
   YCC: '#587cf2',
   YEE: '#fc9c24',
   YEED: '#5c9c7c',
+  YFI: '#0474f8',
   YLC: '#f4941c',
   YOC: '#28a4dc',
   YOU: '#4d04d4',
