@@ -12,7 +12,7 @@ module.exports = {
   '808': 1,
   '8BIT': 1,
   'B@': 1,
-  'TT-DAI': 1,
+  'TT-SAI': 1,
   'TT-USDT': 1,
   AAA: 1,
   AAC: 1,

@@ -1630,6 +1630,8 @@ module.exports = {
   TSC: '#747c7c',
   TSL: '#4ca48c',
   TT: '#ffe81c',
+  'TT-SAI': '#fcfc04',
+  'TT-USDT': '#fcfb04',
   TTC: '#141494',
   TTK: '#e7c405',
   TTT: '#0454d4',
