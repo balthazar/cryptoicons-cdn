@@ -1836,7 +1836,7 @@ module.exports = {
   XRT: '#3c7c98',
   XSD: '#a43484',
   XSG: '#d42434',
-  XSGD: '#ea9c44',
+  XSGD: '#2484e4',
   XSH: '#e4a444',
   XSN: '#4f6faf',
   XSPEC: '#3c8cc0',
