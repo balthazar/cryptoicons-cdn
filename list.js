@@ -982,6 +982,7 @@ module.exports = {
   GXS: 1,
   GXX: 1,
   GZE: 1,
+  GZIL: 1,
   GZRO: 1,
   HAC: 1,
   HALLO: 1,
