@@ -404,6 +404,7 @@ module.exports = {
   BOC: 1,
   BOE: 1,
   BOLI: 1,
+  BOLT: 1,
   BON: 1,
   BOS: 1,
   BOST: 1,
