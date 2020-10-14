@@ -145,6 +145,7 @@ module.exports = {
   'TRXB-2E6': 1,
   'TT-SAI': 1,
   'TT-USDT': 1,
+  'TT-USDC': 1,
   'TT-WBTC': 1,
   'TUSDB-888': 1,
   'TWT-8C2': 1,
