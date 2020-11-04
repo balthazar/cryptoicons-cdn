@@ -143,6 +143,7 @@ module.exports = {
   'TROY-9B8': 1,
   'TRUE-D84': 1,
   'TRXB-2E6': 1,
+  'TT-ETH': 1,
   'TT-SAI': 1,
   'TT-USDT': 1,
   'TT-USDC': 1,
