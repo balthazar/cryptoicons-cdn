@@ -2207,6 +2207,7 @@ module.exports = {
   ZIP: 1,
   ZIPT: 2,
   ZLA: 1,
+  ZLF: 1,
   ZLP: 3,
   ZMN: 1,
   ZNT: 1,
