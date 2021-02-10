@@ -1658,7 +1658,7 @@ module.exports = {
   UIP: '#acbcec',
   UIS: '#1494d4',
   UKG: '#e4ab4f',
-  UNI: '#0c94e3',
+  UNI: '#e62988',
   UNIFY: '#2c9cf5',
   UNIT: '#148cea',
   UNKNOWN: '#848484',
