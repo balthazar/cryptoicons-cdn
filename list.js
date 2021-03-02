@@ -1985,6 +1985,7 @@ module.exports = {
   USDC: 1,
   USDS: 1,
   USDT: 1,
+  'USDT-6D8': 1,
   USE: 1,
   USNBT: 1,
   UST: 1,
